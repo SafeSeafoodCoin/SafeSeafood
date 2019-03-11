@@ -1,0 +1,9 @@
+Building SafeSeafood
+
+See doc/readme-qt.rst for instructions on building SafeSeafood QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SafeSeafood.
+
+See doc/build-*.txt for instructions on building SafeSeafoodd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SafeSeafood.
