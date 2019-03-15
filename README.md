@@ -10,7 +10,7 @@ Safe SeaFood ($SSF) coin's aim is to improve the existing ways in which global a
 
 WEBSITE - www.safeseafoodcoin.com
 
-EXPLORER - www.safeseafoodcoin.info
+EXPLORER - http://pacific.safeseafoodcoin.com
 
 Ticker: SSF
 
