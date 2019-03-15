@@ -1,6 +1,3 @@
-FOR UNSTABLE DEVELOPMENT ONLY ⚛⚛⚛Nerd-Lab⚛⚛⚛
-this chain will be burned several times its of no use to u
-
 # SAFE SEAFOOD COIN
 
 ![SSF](SSFLOGO-small.png)
@@ -94,10 +91,3 @@ information or see http://opensource.org/licenses/MIT.
  
 
 
-to build linux Qt
-
-from source 
-
-qmake -qt4
-
-make (-j*)
