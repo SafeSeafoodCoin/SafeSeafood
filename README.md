@@ -48,11 +48,11 @@ Block Target Time - 300 Sec
 Downloads
 ===============
 
-SOURCE - github.com/
+SOURCE - github.com/SafeSeafoodCoin/SafeSeafood
 
-WALLET- Windows - 
+WALLET- Windows - github.com/SafeSeafoodCoin/Wallets
 
-WALLET - Linux - 
+WALLET - Linux - github.com/SafeSeafoodCoin/Wallets
 
 WALLET - Mac - Coming Soon
 
