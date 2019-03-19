@@ -1,5 +1,7 @@
 # SAFE SEAFOOD COIN
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/42ea895c58a34546b13815c464b6e4c7)](https://app.codacy.com/app/SSFcoin/SafeSeafood?utm_source=github.com&utm_medium=referral&utm_content=SafeSeafoodCoin/SafeSeafood&utm_campaign=Badge_Grade_Settings)
+
 ![SSF](SSFLOGO-small.png)
 
 The Home of Blockchain Tracking, Storing and Retrieving Shellfish and Seafood Harvest Tag information for The Restaurant, Hospitality and Global Aquaculture Industries.
