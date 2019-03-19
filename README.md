@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24cb0743bdfd45e4ba7876a0233f404a)]
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/24cb0743bdfd45e4ba7876a0233f404a)
 
 # SAFE SEAFOOD COIN
 
