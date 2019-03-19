@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/24cb0743bdfd45e4ba7876a0233f404a)](https://www.codacy.com/app/SSFcoin/SafeSeafood?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SafeSeafoodCoin/SafeSeafood&amp;utm_campaign=Badge_Grade)
+
 # SAFE SEAFOOD COIN
 
 ![SSF](SSFLOGO-small.png)
