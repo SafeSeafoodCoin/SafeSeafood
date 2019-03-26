@@ -90,6 +90,9 @@ License
 
 Safe Seafood Coin is released under the terms of the MIT license. See `LICENSE` for more
 information or see http://opensource.org/licenses/MIT.
+
+
+Steemit 
  
 
 
