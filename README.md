@@ -22,9 +22,9 @@ Minimum Transaction .05 $SSF
 
 Minimum Transaction Fee - .02 $SSF
 
-Network port: 18216
+Network port: 43218
 
-RPC port: 18217
+RPC port: 13888
 
 Pre-mine for Development Funding/Promotions - 2,000,000*
 
