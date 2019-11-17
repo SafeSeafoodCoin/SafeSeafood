@@ -22,7 +22,7 @@ Minimum Transaction .05 $SSF
 
 Minimum Transaction Fee - .02 $SSF
 
-Network port: 43218
+Network port: 43128
 
 RPC port: 13888
 
