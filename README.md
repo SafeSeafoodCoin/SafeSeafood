@@ -1,5 +1,4 @@
-FOR UNSTABLE DEVELOPMENT ONLY ⚛⚛⚛Nerd-Lab⚛⚛⚛
-this chain will be burned several times its of no use to u
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/24cb0743bdfd45e4ba7876a0233f404a)
 
 # SAFE SEAFOOD COIN
 
@@ -13,7 +12,7 @@ Safe SeaFood ($SSF) coin's aim is to improve the existing ways in which global a
 
 WEBSITE - www.safeseafoodcoin.com
 
-EXPLORER - www.safeseafoodcoin.info
+EXPLORER - http://pacific.safeseafoodcoin.com
 
 Ticker: SSF
 
@@ -23,9 +22,9 @@ Minimum Transaction .05 $SSF
 
 Minimum Transaction Fee - .02 $SSF
 
-Network port: 34128
+Network port: 43128
 
-RPC port: 43128
+RPC port: 13888
 
 Pre-mine for Development Funding/Promotions - 2,000,000*
 
@@ -51,11 +50,11 @@ Block Target Time - 300 Sec
 Downloads
 ===============
 
-SOURCE - github.com/
+SOURCE - github.com/SafeSeafoodCoin/SafeSeafood
 
-WALLET- Windows - 
+WALLET- Windows - github.com/SafeSeafoodCoin/Wallets
 
-WALLET - Linux - 
+WALLET - Linux - github.com/SafeSeafoodCoin/Wallets
 
 WALLET - Mac - Coming Soon
 
@@ -91,13 +90,9 @@ License
 
 Safe Seafood Coin is released under the terms of the MIT license. See `LICENSE` for more
 information or see http://opensource.org/licenses/MIT.
+
+
+Steemit - Prochef.Bill
  
 
 
-to build linux Qt
-
-from source 
-
-qmake -qt4
-
-make (-j*)

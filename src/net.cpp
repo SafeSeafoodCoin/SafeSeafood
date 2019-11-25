@@ -1154,7 +1154,11 @@ static const char *strDNSSeed[][2] = {
     {"Indian", "indian.safeseafoodcoin.com"},
     {"Southern", "southern.safeseafoodcoin.com"},
     {"Arctic", "arctic.safeseafoodcoin.com"},
-    {"NerdLabNet", "ssfdns.nerdlabnet.xyz"},
+    {"Pacific", "pacific.nerdlabs001.com"},
+    {"Atlantic", "atlantic.nerdlabs001.com"},
+    {"Indian", "indian.nerdlabs001.com"},
+    {"Southern", "southern.nerdlabs001.com"},
+    {"Arctic", "arctic.nerdlabs001.com"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
