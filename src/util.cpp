@@ -286,9 +286,9 @@ inline int OutputDebugStringF(const char* pszFormat, ...)
 
 string vstrprintf(const char *format, va_list ap)
 {
-    char buffer[50000];
+    char buffer[50000+9];
     char* p = buffer;
-    int limit = sizeof(buffer)+32;
+    int limit = sizeof(buffer);
     int ret;
     while(true)
     {
