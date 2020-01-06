@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /home/lab/lab/SafeSeafood/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /home/lab/lab/SafeSeafood/src/obj/build.h :
