@@ -1,0 +1,10 @@
+obj/wallet.o: wallet.cpp main.h bignum.h util.h uint256.h netbase.h \
+ serialize.h allocators.h version.h clientversion.h compat.h sync.h net.h \
+ mruset.h protocol.h addrman.h script.h keystore.h crypter.h key.h \
+ scrypt.h wallet.h ui_interface.h walletdb.h db.h base58.h coincontrol.h \
+ kernel.h
+wallet.cpp main.h bignum.h util.h uint256.h netbase.h :
+ serialize.h allocators.h version.h clientversion.h compat.h sync.h net.h :
+ mruset.h protocol.h addrman.h script.h keystore.h crypter.h key.h :
+ scrypt.h wallet.h ui_interface.h walletdb.h db.h base58.h coincontrol.h :
+ kernel.h :
